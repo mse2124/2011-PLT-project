@@ -1,0 +1,10 @@
+How to pull from the repo
+
+git pull upstream master
+
+
+How to push to repo
+git add .
+git commit -m 'commit name'
+git remote add origin git@github.com:mse2124/2011-PLT-project.git
+git push origin master
