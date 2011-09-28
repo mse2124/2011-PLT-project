@@ -7,3 +7,9 @@ How to push to repo
 git add .
 git commit -m 'commit name'
 git push origin master (use your latest origin iteration)
+
+How to delete from repo
+git rm (filename)
+git add .
+git commit -m 'commit name'
+git push origin master
